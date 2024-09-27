@@ -1,0 +1,10 @@
+{
+  "token": "your_bot_token",
+  "openaiApiKey": "your_openai_api_key",
+  "textGearsApiKey": "your_textgears_api_key",
+  "guildId": "your_guild_id",
+  "owner": "Your Name",
+  "githubUrl": "https://github.com/yourrepo",
+  "errorWebhookUrl": "https://discord.com/api/webhooks/your_error_webhook_id/your_error_webhook_token",
+  "interactionWebhookUrl": "https://discord.com/api/webhooks/your_interaction_webhook_id/your_interaction_webhook_token"
+}
